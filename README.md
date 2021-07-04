@@ -1,5 +1,5 @@
 # loops
 n = int(input())
-for i in range(n):# 0<= i<n
-    result = i**2# we can do i*i also
+for i in range(n):
+    result = i**2
     print(result)
